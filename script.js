@@ -1,5 +1,18 @@
 //↓↓↓↓↓↓↓↓↓↓↓↓YOUR CODE goes here↓↓↓↓↓↓↓↓↓↓↓↓
-
+const song = {
+title: `God's Chariots`,
+album: `Galore`,
+artist: {
+name: `Marylou Vanina Mayniel`,
+instrument: `electronics`,
+birthdate: `April 23 1993`,    
+},
+duration: 184,
+genre: `Ambient Pop`,
+label: `True Panther`,
+songwriter: `Oklou and Casey MQ`,
+producer: `Oklou and Casey MQ`
+}
 
 //↑↑↑↑↑↑↑↑↑↑YOUR CODE goes above here↑↑↑↑↑↑↑↑↑↑
 //DO not edit below here, everything below here will make the information appear on the webpage!
